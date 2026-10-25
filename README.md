@@ -1,8 +1,7 @@
  Hi, I'm Dante 
 
 I'm an engineering student and technician developing my
-programming and engineering skills with a focus on aerospace
-propulsion, instrumentation, test systems, and controls.
+programming and engineering skills with a focus computers , instrumentation, test systems, and controls.
 
 🔧 Currently Learning
 
